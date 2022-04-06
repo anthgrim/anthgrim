@@ -6,5 +6,9 @@ You can find me in:
 - Web Portfolio: **[anthgrimk.dev](https://anthgrimk.dev/)**
 - LinkedIn: **[Kevin Grimaldi](https://www.linkedin.com/in/kevin-grimaldi-392b44178/)**
 
+Fun Facts:
 
-Note: My favorite color is NOT yellow.
+- My first programming language was **[VBA](https://docs.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office)** (it is considered a programming language, check the docs 😁)
+- I failed my first Java midterm, but aced the finals 😤
+- My favorite food is Pizza 🍕(so far)
+- My favorite color is NOT yellow 😆
