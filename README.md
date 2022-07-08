@@ -7,7 +7,7 @@ Web Developer
 I'm currently learning the MERN Stack with the MIT/xPro - Full Stack Development course. I'm passionate about programming, and sciences in general (with a special focus in Mathematics and the way the Universe is designed 🛰️🔭). I believe the future is written in binary 🤖, and that new coding technologies will open a lot of opportunities to the world.
 
 * 🌍  I'm based in Miami, FL
-* 🖥️  See my portfolio at [anthgrimk.dev](http://anthgrimk.dev/)
+* 🖥️  See my portfolio at [anthgrim.netlify.app](https://anthgrim.netlify.app/)
 * ✉️  You can contact me at [anthgrim@icloud.com](mailto:anthgrim@icloud.com)
 * 🧠  I'm learning MERN Stack and ASP.NET
 * 🤝  I'm open to collaborating on Web Application Projects
@@ -30,8 +30,6 @@ I'm currently learning the MERN Stack with the MIT/xPro - Full Stack Development
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/anthgrim" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/anthgrimk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/kevin-grimaldi-392b44178/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-### Badges
 
 <b>My GitHub Stats</b>
 
