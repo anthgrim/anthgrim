@@ -9,8 +9,9 @@ I'm a full stack developer in MERN and ASP.NET. I'm passionate about programming
 * 🌍  I'm based in Orlando, FL
 * 🖥️  See my portfolio at [anthgrim.netlify.app](https://anthgrim.netlify.app/)
 * ✉️  You can contact me at [anthgrim@icloud.com](mailto:anthgrim@icloud.com)
-* 🧠  I keep learning everyday. My stacks are MERN and ASP.NET
-* 🤝  I'm open to collaborating on Web Application Projects
+* 🤝  Connect with me on [LinkedIn](https://www.linkedin.com/in/kevin-grimaldi-392b44178/)
+* 🧠  I keep learning everyday. My stacks are MERN and ASP.NET. But I sometimes do VB and VB.NET
+* 🤝  I'm open to collaborating on any projects I can learn new interesting stuff (AI, ML, Web, Mobile, ...)
 * 🖥️  Check out my first npm package [general-formatter](https://www.npmjs.com/package/general-formatter)
 * 🌍  Check out my latest project built on NextJS [Orderque.com](https://www.orderque.com/)
 
