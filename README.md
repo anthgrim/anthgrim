@@ -9,8 +9,9 @@ I'm a full stack developer in MERN and ASP.NET. I'm passionate about programming
 * 🌍  I'm based in Orlando, FL
 * 🖥️  See my portfolio at [anthgrim.netlify.app](https://anthgrim.netlify.app/)
 * ✉️  You can contact me at [anthgrim@icloud.com](mailto:anthgrim@icloud.com)
-* 🧠  I'm learning MERN Stack and ASP.NET
+* 🧠  I keep learning everyday. My stacks are MERN and ASP.NET
 * 🤝  I'm open to collaborating on Web Application Projects
+* 🖥️  Check out my first npm package [general-formatter](https://www.npmjs.com/package/general-formatter)
 
 ### Skills
 
