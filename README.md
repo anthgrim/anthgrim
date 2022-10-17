@@ -1,4 +1,4 @@
-Hi 👋 My name is Kevin Grimaldi
+Hi 👋 I'm Kevin Grimaldi
 ===============================
 
 Full Stack Developer
@@ -12,6 +12,7 @@ I'm a full stack developer in MERN and ASP.NET. I'm passionate about programming
 * 🧠  I keep learning everyday. My stacks are MERN and ASP.NET
 * 🤝  I'm open to collaborating on Web Application Projects
 * 🖥️  Check out my first npm package [general-formatter](https://www.npmjs.com/package/general-formatter)
+* 🌍  Check out my latest project built on NextJS [Orderque.com](https://www.orderque.com/)
 
 ### Skills
 
