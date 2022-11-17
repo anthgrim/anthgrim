@@ -7,13 +7,13 @@ Full Stack Developer
 I'm a full stack developer in MERN and ASP.NET. I'm passionate about programming, and sciences in general (with a special focus in Mathematics and the way the Universe is designed 🛰️🔭). I believe the future is written in binary 🤖, and that new coding technologies will open a lot of opportunities to the world.
 
 * 🌍  I'm based in Orlando, FL
-* 🖥️  See my portfolio at [anthgrim.netlify.app](https://anthgrim.netlify.app/)
 * ✉️  You can contact me at [anthgrim@icloud.com](mailto:anthgrim@icloud.com)
-* 🤝  Connect with me on [LinkedIn](https://www.linkedin.com/in/kevin-grimaldi-392b44178/)
+* 🤝  Connect with me on [LinkedIn](https://www.linkedin.com/in/kevingrimaldi/)
 * 🧠  I keep learning everyday. My stacks are MERN and ASP.NET. But I sometimes do VB and VB.NET
 * 🤝  I'm open to collaborating on any projects I can learn new interesting stuff (AI, ML, Web, Mobile, ...)
 * 🖥️  Check out my first npm package [general-formatter](https://www.npmjs.com/package/general-formatter)
 * 🌍  Check out my latest project built on NextJS [Orderque.com](https://www.orderque.com/)
+* 🖥️  Currently Working on a CyberSecurity Platform for Small Businesses (personal side project... Coming Soon!)
 
 ### Skills
 
