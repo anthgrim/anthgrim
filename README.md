@@ -12,7 +12,7 @@ I'm a Software developer in MERN and ASP.NET. I'm passionate about programming, 
 * 🧠  I keep learning everyday. My stacks are MERN and ASP.NET. But I sometimes do VB and VB.NET
 * 🧠  Currently learning Python, on my path to learn AI and ML by the end of 2023!
 * 🤝  I'm open to collaborating on any projects I can learn new interesting stuff (AI, ML, Web, Mobile, ...)
-* 🖥️  Check out my first npm package [general-formatter](https://www.npmjs.com/package/general-formatter)
+* 🖥️  Check out my npm packages [nodejs-server-log](https://www.npmjs.com/package/nodejs-server-log) and [general-formatter](https://www.npmjs.com/package/general-formatter)
 * 🌍  Check out my latest project built on NextJS [Orderque.com](https://www.orderque.com/)
 * 🖥️  Currently Working on a CyberSecurity Platform for Small Businesses (personal side project... Coming Soon!)
 
